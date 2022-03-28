@@ -1,0 +1,20 @@
+
+.Npokemon{
+    position: relative;
+    width: 0px;
+    left: 70px;
+    top: 900px;
+
+}
+.boton{
+    position: relative;
+    left: 50px;
+    top: 640px;
+    width: 0px;
+
+}
+.imagen{
+    position: relative;
+    left: 200px;
+    top: 500px;
+}
